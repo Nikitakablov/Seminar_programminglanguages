@@ -1,0 +1,15 @@
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.csproj.AssemblyReference.cache
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.AssemblyInfoInputs.cache
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.AssemblyInfo.cs
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.csproj.CoreCompileInputs.cache
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/bin/Debug/net6.0/SEMINAR1
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/bin/Debug/net6.0/SEMINAR1.deps.json
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/bin/Debug/net6.0/SEMINAR1.runtimeconfig.json
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/bin/Debug/net6.0/SEMINAR1.dll
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/bin/Debug/net6.0/SEMINAR1.pdb
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.dll
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/refint/SEMINAR1.dll
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.pdb
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/SEMINAR1.genruntimeconfig.cache
+/Users/Nikita k/Desktop/Seminar_programminglanguage/SEMINAR1/obj/Debug/net6.0/ref/SEMINAR1.dll
